@@ -67,7 +67,24 @@
                 "url": "https://www.meetup.com/Paris-Hackergarten/events/tvdrwpyzdbjc/"
             }
         ],
-        "achievements": [],
+        "achievements": [
+            {
+                "title": "Mihangy got to learn Jupyter Notebook and Surpriselib to work on collaborative filtering for openwhyd.org data",
+                "url": "https://github.com/openwhyd/openwhyd/issues/83#issuecomment-468951555"
+            },
+            {
+                "title": "Lukas and Christophe thought about improvements of the openwhyd.org homepage and wrote up some recommendations",
+                "url": "https://github.com/openwhyd/openwhyd/issues/182#issuecomment-467639950"
+            },
+            {
+                "title": "Adrien made progress on the Node.js OAuth server for openwhyd",
+                "url": "https://github.com/adrienjoly/oauth-bridge"
+            },
+            {
+                "title": "Oussama and Florent worked on Liquigraph/Sentinel, fixing a bug during updates",
+                "url": "https://github.com/liquigraph/sentinel/commit/0ad4bf5689dfb71668bbb64fb26a6d4e8a6bdb1e"
+            }
+        ],
         "venue": "33 rue La Fayette 75009 Paris",
         "address": "Paris, France"
     },
